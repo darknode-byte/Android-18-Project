@@ -12,8 +12,8 @@ Product Manager:
     Joel martin 
 
 Attendees:
-Joel Martin
-Jackson Perese 
+Joel Martin,
+Jackson Perese.
 Absent:	Enter names of those absent here
 Please bring:
 Laptop
@@ -29,13 +29,13 @@ We discussed what we define as stakeholders and decided on what roles shall be d
 Conclusions:
 We conclude that everyone was happy with their positions, and we were able to work out who would be best at doing what task.
 
-Action items:                                   Person responsible
+Action items:                                   Person responsible:
 Complete and upload the stake holder register 	Zac Greenwood 
 Deadline: 17/3/26
-                Person responsible
+                Person responsible:
 Role Structure	Zac Greenwood
 Deadline: 17/3/26
-            Person responsible
+            Person responsible:
 Note Taking	Joel Martin
 Deadline: 17/3/26
 
@@ -50,11 +50,11 @@ Deciding on what kind of personas would likely be visiting our site and deciding
 Conclusions:
 We were both able to identify what personas we should both work on and chose a good range of options to suit multiple users.
 
-Action items:                       Person responsible
+Action items:                       Person responsible:
 Jackson to complete ONE persona 	Jackson Perese
 Deadline: 19/3/26
 
-Action items                    Person responsible
+Action items                    Person responsible:
 Joel to complete TWO persona’s 	Joel Martin 
 Deadline: 19/3/26
 
